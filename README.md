@@ -1,7 +1,8 @@
 # Advance SQL PROJECT--INSTAGRAM-LIKE DATABASE SCHEMA
 In this exercise, I'll be working with a simplified version of an Instagram-like database schema. This schema represents the core components of a social media platform where users can post photos, like, comment, follow others, and more. As part of my learning journey, I'll be using a range of advanced SQL functions, including window functions, grouping, and subqueries, to perform intricate data analysis tasks on the provided database. These functions enable me to extract meaningful insights from complex datasets, enhancing my ability to work with real-world scenarios
 
-Database Schema Overview:
+## Database Schema Overview:
+
 Here's a brief overview of the tables I'll be working with: users: Contains user information such as usernames and creation timestamps.
 
 photos: Stores details about posted photos, including image URLs and user IDs.
@@ -16,12 +17,14 @@ tags: Manages unique tag names for photos.
 
 photo_tags: Links photos with associated tags.
 
-Objective
+## Objective
+
 The task is to write SQL queries using a variety of advanced functions to extract valuable insights from the database. These insights could be used by the platform to understand user behavior, engagement, and trends. Each question is accompanied by a description of the task.
 
 This project served as a platform to enhance my proficiency in advanced SQL analytics, demonstrating the practical applications of these concepts. I had the freedom to experiment, collaborate, and explore diverse approaches to problem-solving.
 
-Questions :
+## Questions :
+
 1.How many times does the average user post?
 
 2.Find the top 5 most used hashtags.
